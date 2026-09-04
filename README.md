@@ -31,3 +31,6 @@ What the company can responsibly conclude: The company can identify customer tra
 What the company should not conclude yet: The company should not treat these relationships as causal. For example, the model can show that month-to-month contracts are associated with churn, but it does not prove that changing a customer contract would directly prevent churn.
 
 One next analysis we would run: I would test interaction effects, especially whether monthly charges and tenure affect churn differently across contract types.
+
+
+NOTE: To run this notebook in google colab, upload the notebook and run as-is. To run the notebook locally, you may clone this repo and import the included csv file directly if preferred.
